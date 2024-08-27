@@ -8,7 +8,4 @@ location = "west us"
 }  
 
 
-resource "azurerm_resource_group" "nh1" {
-    name = "nhbgsfdb"
-location = "west us"
-} 
+ 
